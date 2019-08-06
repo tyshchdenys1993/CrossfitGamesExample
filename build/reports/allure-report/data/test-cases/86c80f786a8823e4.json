@@ -1,0 +1,57 @@
+{
+  "uid" : "86c80f786a8823e4",
+  "name" : "testLeaderBoardTest",
+  "fullName" : "LeaderBoardTest.testLeaderBoardTest",
+  "historyId" : "649018f7637c151bb4bc1cc5daf217ce",
+  "time" : {
+    "start" : 1564991364259,
+    "stop" : 1564991406130,
+    "duration" : 41871
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "LeaderBoardTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLeaderBoardTest"
+  }, {
+    "name" : "suite",
+    "value" : "LeaderBoardTest"
+  }, {
+    "name" : "host",
+    "value" : "ODS1-LHP-F31392"
+  }, {
+    "name" : "thread",
+    "value" : "20192@ODS1-LHP-F31392.Test worker(11)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aedcac793a309439",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564991209385,
+        "stop" : 1564991241887,
+        "duration" : 32502
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86c80f786a8823e4.json",
+  "parameterValues" : [ ]
+}

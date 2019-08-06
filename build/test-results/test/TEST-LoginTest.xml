@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-05T07:47:27" hostname="ODS1-LHP-F31392" time="110.483">
+  <properties/>
+  <testcase name="testLoginTest" classname="LoginTest" time="26.291"/>
+  <testcase name="testLoginTest" classname="LoginTest" time="39.674"/>
+  <system-out><![CDATA[10:47:39.335 [Test worker] INFO   - User opens site
+10:47:40.471 [Test worker] INFO   - User clicks to 'Accept' button
+10:47:42.942 [Test worker] INFO   - Login page is opened
+10:47:43.897 [Test worker] INFO   - Login in system
+10:47:48.606 [Test worker] INFO   - Verify, that user is correct
+10:47:52.713 [Test worker] INFO   - Logout
+10:47:52.785 [Test worker] INFO   - Verify that user is logged out
+10:47:54.108 [Test worker] INFO   - User closes site
+10:48:57.265 [Test worker] INFO   - User opens site
+10:48:58.287 [Test worker] INFO   - User clicks to 'Accept' button
+10:49:04.099 [Test worker] INFO   - Login page is opened
+10:49:05.490 [Test worker] INFO   - Login in system
+10:49:11.888 [Test worker] INFO   - Verify, that user is correct
+10:49:16.903 [Test worker] INFO   - Logout
+10:49:16.975 [Test worker] INFO   - Verify that user is logged out
+10:49:18.298 [Test worker] INFO   - User closes site
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1) on port 7787
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Aug 05, 2019 10:47:26 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

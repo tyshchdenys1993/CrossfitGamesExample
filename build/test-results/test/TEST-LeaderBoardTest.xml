@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LeaderBoardTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-05T07:46:49" hostname="ODS1-LHP-F31392" time="196.77">
+  <properties/>
+  <testcase name="testLeaderBoardTest" classname="LeaderBoardTest" time="32.518"/>
+  <testcase name="testLeaderBoardTest" classname="LeaderBoardTest" time="41.896"/>
+  <system-out><![CDATA[10:47:00.324 [Test worker] INFO   - User opens site
+10:47:01.705 [Test worker] INFO   - User clicks to 'Accept' button
+10:47:03.873 [Test worker] INFO   - Login page is opened
+10:47:04.820 [Test worker] INFO   - Login in system
+10:47:09.620 [Test worker] INFO   - Verify, that user is correct
+10:47:10.604 [Test worker] INFO   - User opens Leader Board Page from main carousel
+10:47:14.504 [Test worker] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+10:47:16.802 [Test worker] INFO   - Verify count of all active (not disqualified) athletes
+10:47:20.575 [Test worker] INFO   - Write all athletes to a file
+10:47:21.886 [Test worker] INFO   - Close site
+10:49:36.910 [Test worker] INFO   - User opens site
+10:49:38.059 [Test worker] INFO   - User clicks to 'Accept' button
+10:49:41.911 [Test worker] INFO   - Login page is opened
+10:49:43.933 [Test worker] INFO   - Login in system
+10:49:50.336 [Test worker] INFO   - Verify, that user is correct
+10:49:51.834 [Test worker] INFO   - User opens Leader Board Page from main carousel
+10:49:59.362 [Test worker] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+10:50:01.110 [Test worker] INFO   - Verify count of all active (not disqualified) athletes
+10:50:04.814 [Test worker] INFO   - Write all athletes to a file
+10:50:06.129 [Test worker] INFO   - Close site
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1) on port 40704
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Aug 05, 2019 10:46:48 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "OpenSiteTest",
+    "children" : [ {
+      "name" : "testOpenSiteTest",
+      "uid" : "9f6e816eca546072",
+      "parentUid" : "19af9ae649a377f45146410a2b2502ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564991299474,
+        "stop" : 1564991312134,
+        "duration" : 12660
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "19af9ae649a377f45146410a2b2502ea"
+  }, {
+    "name" : "LoginTest",
+    "children" : [ {
+      "name" : "testLoginTest",
+      "uid" : "1bcc4d22fd34bdbf",
+      "parentUid" : "b9a196f305ae86bf6bf452c18364a114",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564991318635,
+        "stop" : 1564991358299,
+        "duration" : 39664
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b9a196f305ae86bf6bf452c18364a114"
+  }, {
+    "name" : "LeaderBoardTest",
+    "children" : [ {
+      "name" : "testLeaderBoardTest",
+      "uid" : "86c80f786a8823e4",
+      "parentUid" : "80025d04f1069f119317ce6534f5577b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564991364259,
+        "stop" : 1564991406130,
+        "duration" : 41871
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "80025d04f1069f119317ce6534f5577b"
+  }, {
+    "name" : "CrossFitStuffShopTest",
+    "children" : [ {
+      "name" : "testCrossFitStuffShopTest",
+      "uid" : "55ea643e11a5c875",
+      "parentUid" : "74f379baa0d1857fbc7f45e6f7ff5113",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564991412007,
+        "stop" : 1564991443519,
+        "duration" : 31512
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "74f379baa0d1857fbc7f45e6f7ff5113"
+  } ]
+}

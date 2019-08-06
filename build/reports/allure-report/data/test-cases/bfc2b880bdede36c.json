@@ -1,0 +1,47 @@
+{
+  "uid" : "bfc2b880bdede36c",
+  "name" : "testLoginTest",
+  "fullName" : "LoginTest.testLoginTest",
+  "historyId" : "bd66257690acd4220e974a4d5ef5fdef",
+  "time" : {
+    "start" : 1564991247827,
+    "stop" : 1564991274109,
+    "duration" : 26282
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLoginTest"
+  }, {
+    "name" : "suite",
+    "value" : "LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "ODS1-LHP-F31392"
+  }, {
+    "name" : "thread",
+    "value" : "20192@ODS1-LHP-F31392.Test worker(11)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfc2b880bdede36c.json",
+  "parameterValues" : [ ]
+}

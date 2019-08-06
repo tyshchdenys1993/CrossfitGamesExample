@@ -1,0 +1,47 @@
+{
+  "uid" : "3b8256fa2e7c790b",
+  "name" : "testOpenSiteTest",
+  "fullName" : "OpenSiteTest.testOpenSiteTest",
+  "historyId" : "371143747c3119a07adf0af3cbe44c06",
+  "time" : {
+    "start" : 1564991280357,
+    "stop" : 1564991293651,
+    "duration" : 13294
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "OpenSiteTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testOpenSiteTest"
+  }, {
+    "name" : "suite",
+    "value" : "OpenSiteTest"
+  }, {
+    "name" : "host",
+    "value" : "ODS1-LHP-F31392"
+  }, {
+    "name" : "thread",
+    "value" : "20192@ODS1-LHP-F31392.Test worker(11)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b8256fa2e7c790b.json",
+  "parameterValues" : [ ]
+}

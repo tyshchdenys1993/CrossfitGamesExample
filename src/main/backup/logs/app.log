@@ -1,0 +1,452 @@
+2019-25-12 14:25:41.091 [main] INFO   - User opens site
+2019-25-12 14:25:42.522 [main] INFO   - User closes site
+2019-43-12 14:43:32.782 [main] INFO   - User opens site
+2019-43-12 14:43:38.305 [main] INFO   - Login page is opened
+2019-43-12 14:43:39.342 [main] INFO   - Login in system
+2019-45-12 14:45:43.787 [main] INFO   - User opens site
+2019-07-12 15:07:55.150 [main] INFO   - User opens site
+2019-07-12 15:07:57.145 [main] INFO   - Login page is opened
+2019-07-12 15:07:58.251 [main] INFO   - Login in system
+2019-09-12 15:09:04.914 [main] INFO   - User opens site
+2019-09-12 15:09:13.684 [main] INFO   - Login page is opened
+2019-09-12 15:09:15.283 [main] INFO   - Login in system
+2019-10-12 15:10:31.699 [main] INFO   - User opens site
+2019-10-12 15:10:33.357 [main] INFO   - Login page is opened
+2019-10-12 15:10:34.513 [main] INFO   - Login in system
+2019-13-12 15:13:06.021 [main] INFO   - User opens site
+2019-13-12 15:13:07.560 [main] INFO   - Login page is opened
+2019-13-12 15:13:08.760 [main] INFO   - Login in system
+2019-14-12 15:14:47.106 [main] INFO   - User opens site
+2019-14-12 15:14:54.402 [main] INFO   - Login page is opened
+2019-14-12 15:14:55.423 [main] INFO   - Login in system
+2019-16-12 15:16:10.585 [main] INFO   - User opens site
+2019-16-12 15:16:12.714 [main] INFO   - Login page is opened
+2019-16-12 15:16:14.222 [main] INFO   - Login in system
+2019-16-12 15:16:21.557 [main] INFO   - Verify, that user is correct
+2019-16-12 15:16:23.105 [main] INFO   - User closes site
+2019-16-12 15:16:52.182 [main] INFO   - User opens site
+2019-16-12 15:16:54.166 [main] INFO   - Login page is opened
+2019-16-12 15:16:55.147 [main] INFO   - Login in system
+2019-16-12 15:16:59.925 [main] INFO   - Verify, that user is correct
+2019-17-12 15:17:01.246 [main] INFO   - User closes site
+2019-32-12 16:32:58.852 [main] INFO   - User opens site
+2019-33-12 16:33:00.991 [main] INFO   - Login page is opened
+2019-33-12 16:33:01.986 [main] INFO   - Login in system
+2019-34-12 16:34:36.416 [main] INFO   - User opens site
+2019-34-12 16:34:44.473 [main] INFO   - Login page is opened
+2019-34-12 16:34:45.918 [main] INFO   - Login in system
+2019-37-12 16:37:02.110 [main] INFO   - User opens site
+2019-37-12 16:37:04.356 [main] INFO   - Login page is opened
+2019-37-12 16:37:05.444 [main] INFO   - Login in system
+2019-40-12 16:40:37.659 [main] INFO   - User opens site
+2019-40-12 16:40:37.896 [main] INFO   - User clicks to 'Accept' button
+2019-40-12 16:40:40.092 [main] INFO   - Login page is opened
+2019-40-12 16:40:41.118 [main] INFO   - Login in system
+2019-40-12 16:40:45.355 [main] INFO   - Verify, that user is correct
+2019-40-12 16:40:46.896 [main] INFO   - User closes site
+2019-41-12 16:41:33.155 [main] INFO   - User opens site
+2019-41-12 16:41:44.382 [main] INFO   - User clicks to 'Accept' button
+2019-41-12 16:41:46.248 [main] INFO   - Login page is opened
+2019-41-12 16:41:47.194 [main] INFO   - Login in system
+2019-41-12 16:41:52.576 [main] INFO   - Verify, that user is correct
+2019-41-12 16:41:54.073 [main] INFO   - User closes site
+2019-51-12 16:51:53.896 [main] INFO   - User opens site
+2019-51-12 16:51:54.167 [main] INFO   - User clicks to 'Accept' button
+2019-51-12 16:51:58.475 [main] INFO   - Login page is opened
+2019-51-12 16:51:59.691 [main] INFO   - Login in system
+2019-52-12 16:52:07.654 [main] INFO   - Verify, that user is correct
+2019-52-12 16:52:09.070 [main] INFO   - User closes site
+2019-54-12 16:54:08.756 [main] INFO   - User opens site
+2019-54-12 16:54:09.122 [main] INFO   - User clicks to 'Accept' button
+2019-54-12 16:54:11.297 [main] INFO   - Login page is opened
+2019-54-12 16:54:12.404 [main] INFO   - Login in system
+2019-54-12 16:54:16.395 [main] INFO   - Verify, that user is correct
+2019-54-12 16:54:17.944 [main] INFO   - User closes site
+2019-54-12 16:54:47.616 [main] INFO   - User opens site
+2019-54-12 16:54:47.991 [main] INFO   - User clicks to 'Accept' button
+2019-10-17 15:10:43.907 [main] INFO   - User opens site
+2019-10-17 15:10:44.781 [main] INFO   - User clicks to 'Accept' button
+2019-10-17 15:10:46.827 [main] INFO   - Login page is opened
+2019-10-17 15:10:48.170 [main] INFO   - Login in system
+2019-10-17 15:10:57.003 [main] INFO   - Verify, that user is correct
+2019-10-17 15:10:58.331 [main] INFO   - User closes site
+2019-22-17 15:22:10.350 [main] INFO   - User opens site
+2019-25-17 15:25:45.221 [main] INFO   - User opens site
+2019-25-17 15:25:46.040 [main] INFO   - User clicks to 'Accept' button
+2019-25-17 15:25:48.573 [main] INFO   - Login page is opened
+2019-25-17 15:25:49.864 [main] INFO   - Login in system
+2019-25-17 15:25:53.739 [main] INFO   - Verify, that user is correct
+2019-25-17 15:25:59.148 [main] INFO   - Logout
+2019-27-17 15:27:16.369 [main] INFO   - User opens site
+2019-27-17 15:27:17.195 [main] INFO   - User clicks to 'Accept' button
+2019-27-17 15:27:22.787 [main] INFO   - Login page is opened
+2019-27-17 15:27:24.024 [main] INFO   - Login in system
+2019-27-17 15:27:33.713 [main] INFO   - Verify, that user is correct
+2019-27-17 15:27:38.032 [main] INFO   - Logout
+2019-29-17 15:29:07.096 [main] INFO   - User opens site
+2019-29-17 15:29:14.170 [main] INFO   - User clicks to 'Accept' button
+2019-29-17 15:29:18.498 [main] INFO   - Login page is opened
+2019-29-17 15:29:20.003 [main] INFO   - Login in system
+2019-29-17 15:29:27.702 [main] INFO   - Verify, that user is correct
+2019-29-17 15:29:31.906 [main] INFO   - Logout
+2019-29-17 15:29:31.986 [main] INFO   - Verify that user is logged out
+2019-29-17 15:29:33.376 [main] INFO   - User closes site
+2019-33-17 16:33:16.273 [main] INFO   - User opens site
+2019-33-17 16:33:20.780 [main] INFO   - User clicks to 'Accept' button
+2019-34-17 16:34:24.956 [main] INFO   - User opens site
+2019-34-17 16:34:28.082 [main] INFO   - User clicks to 'Accept' button
+2019-34-17 16:34:58.880 [main] INFO   - User opens site
+2019-34-17 16:34:59.745 [main] INFO   - User clicks to 'Accept' button
+2019-35-17 16:35:48.237 [main] INFO   - User opens Leader Board Page from main carousel
+2019-36-17 16:36:30.168 [main] INFO   - User opens site
+2019-36-17 16:36:30.973 [main] INFO   - User clicks to 'Accept' button
+2019-36-17 16:36:32.594 [main] INFO   - User opens Leader Board Page from main carousel
+2019-12-17 18:12:52.492 [main] INFO   - User opens site
+2019-13-17 18:13:45.570 [main] INFO   - User opens site
+2019-13-17 18:13:49.970 [main] INFO   - User clicks to 'Accept' button
+2019-13-17 18:13:51.553 [main] INFO   - User opens Leader Board Page from main carousel
+2019-15-17 18:15:39.546 [main] INFO   - User opens site
+2019-15-17 18:15:42.598 [main] INFO   - User clicks to 'Accept' button
+2019-15-17 18:15:44.292 [main] INFO   - User opens Leader Board Page from main carousel
+2019-16-17 18:16:22.288 [main] INFO   - User opens site
+2019-16-17 18:16:24.772 [main] INFO   - User clicks to 'Accept' button
+2019-16-17 18:16:51.537 [main] INFO   - User opens site
+2019-16-17 18:16:58.384 [main] INFO   - User clicks to 'Accept' button
+2019-17-17 18:17:04.601 [main] INFO   - User opens Leader Board Page from main carousel
+2019-18-17 18:18:50.521 [main] INFO   - User opens site
+2019-18-17 18:18:55.780 [main] INFO   - User clicks to 'Accept' button
+2019-18-17 18:18:56.635 [main] INFO   - User opens Leader Board Page from main carousel
+2019-00-18 10:00:46.185 [main] INFO   - User opens site
+2019-00-18 10:00:48.698 [main] INFO   - User clicks to 'Accept' button
+2019-01-18 10:01:29.056 [main] INFO   - User opens Leader Board Page from main carousel
+2019-04-18 10:04:47.894 [main] INFO   - User opens site
+2019-04-18 10:04:49.851 [main] INFO   - User clicks to 'Accept' button
+2019-04-18 10:04:51.820 [main] INFO   - User opens Leader Board Page from main carousel
+2019-07-18 10:07:16.801 [main] INFO   - User opens site
+2019-07-18 10:07:27.313 [main] INFO   - User clicks to 'Accept' button
+2019-07-18 10:07:29.255 [main] INFO   - User opens Leader Board Page from main carousel
+2019-08-18 10:08:13.133 [main] INFO   - User opens site
+2019-08-18 10:08:15.110 [main] INFO   - User clicks to 'Accept' button
+2019-08-18 10:08:22.185 [main] INFO   - User opens Leader Board Page from main carousel
+2019-08-18 10:08:30.727 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-20-18 10:20:53.569 [main] INFO   - User opens site
+2019-21-18 10:21:28.321 [main] INFO   - User opens site
+2019-21-18 10:21:31.850 [main] INFO   - User clicks to 'Accept' button
+2019-21-18 10:21:40.422 [main] INFO   - User opens Leader Board Page from main carousel
+2019-22-18 10:22:55.058 [main] INFO   - User opens site
+2019-22-18 10:22:58.116 [main] INFO   - User clicks to 'Accept' button
+2019-22-18 10:22:59.814 [main] INFO   - User opens Leader Board Page from main carousel
+2019-06-18 11:06:51.517 [main] INFO   - User opens site
+2019-06-18 11:06:55.665 [main] INFO   - User clicks to 'Accept' button
+2019-07-18 11:07:01.489 [main] INFO   - User opens Leader Board Page from main carousel
+2019-10-18 11:10:19.091 [main] INFO   - User opens site
+2019-11-18 11:11:45.086 [main] INFO   - User opens site
+2019-17-18 11:17:11.461 [main] INFO   - User opens site
+2019-38-18 11:38:24.640 [main] INFO   - User opens site
+2019-38-18 11:38:29.693 [main] INFO   - User clicks to 'Accept' button
+2019-43-18 11:43:55.756 [main] INFO   - User opens site
+2019-45-18 11:45:17.408 [main] INFO   - User opens site
+2019-56-18 11:56:07.375 [main] INFO   - User opens site
+2019-56-18 11:56:08.235 [main] INFO   - User clicks to 'Accept' button
+2019-56-18 11:56:14.543 [main] INFO   - User opens Leader Board Page from main carousel
+2019-56-18 11:56:56.068 [main] INFO   - User opens site
+2019-57-18 11:57:02.008 [main] INFO   - User clicks to 'Accept' button
+2019-57-18 11:57:04.811 [main] INFO   - User opens Leader Board Page from main carousel
+2019-14-18 12:14:14.007 [main] INFO   - User opens site
+2019-14-18 12:14:15.214 [main] INFO   - User clicks to 'Accept' button
+2019-14-18 12:14:19.208 [main] INFO   - User opens Leader Board Page from main carousel
+2019-14-18 12:14:54.604 [main] INFO   - User opens site
+2019-14-18 12:14:55.773 [main] INFO   - User clicks to 'Accept' button
+2019-14-18 12:14:59.843 [main] INFO   - User opens Leader Board Page from main carousel
+2019-15-18 12:15:40.277 [main] INFO   - User opens site
+2019-15-18 12:15:41.105 [main] INFO   - User clicks to 'Accept' button
+2019-16-18 12:16:50.806 [main] INFO   - User opens site
+2019-16-18 12:16:51.633 [main] INFO   - User clicks to 'Accept' button
+2019-16-18 12:16:53.722 [main] INFO   - User opens Leader Board Page from main carousel
+2019-17-18 12:17:45.723 [main] INFO   - User opens site
+2019-17-18 12:17:56.489 [main] INFO   - User clicks to 'Accept' button
+2019-17-18 12:17:58.486 [main] INFO   - User opens Leader Board Page from main carousel
+2019-19-18 12:19:52.391 [main] INFO   - User opens site
+2019-20-18 12:20:49.964 [main] INFO   - User opens site
+2019-22-18 12:22:35.278 [main] INFO   - User opens site
+2019-23-18 12:23:19.203 [main] INFO   - User opens site
+2019-24-18 12:24:42.491 [main] INFO   - User opens site
+2019-25-18 12:25:44.809 [main] INFO   - User opens site
+2019-30-18 12:30:21.251 [main] INFO   - User opens site
+2019-30-18 12:30:22.324 [main] INFO   - User clicks to 'Accept' button
+2019-31-18 12:31:41.358 [main] INFO   - User opens site
+2019-32-18 12:32:46.281 [main] INFO   - User opens site
+2019-32-18 12:32:47.366 [main] INFO   - User clicks to 'Accept' button
+2019-32-18 12:32:49.176 [main] INFO   - User opens Leader Board Page from main carousel
+2019-18-18 15:18:27.495 [main] INFO   - User opens site
+2019-18-18 15:18:28.738 [main] INFO   - User clicks to 'Accept' button
+2019-18-18 15:18:30.937 [main] INFO   - User opens Leader Board Page from main carousel
+2019-19-18 15:19:55.618 [main] INFO   - User opens site
+2019-19-18 15:19:56.710 [main] INFO   - User clicks to 'Accept' button
+2019-19-18 15:19:58.331 [main] INFO   - User opens Leader Board Page from main carousel
+2019-20-18 15:20:51.566 [main] INFO   - User opens site
+2019-20-18 15:20:52.715 [main] INFO   - User clicks to 'Accept' button
+2019-20-18 15:20:54.407 [main] INFO   - User opens Leader Board Page from main carousel
+2019-30-18 15:30:26.548 [main] INFO   - User opens site
+2019-30-18 15:30:27.774 [main] INFO   - User clicks to 'Accept' button
+2019-31-18 15:31:03.739 [main] INFO   - User opens site
+2019-31-18 15:31:05.491 [main] INFO   - User clicks to 'Accept' button
+2019-31-18 15:31:08.606 [main] INFO   - User opens Leader Board Page from main carousel
+2019-32-18 15:32:22.356 [main] INFO   - User opens site
+2019-32-18 15:32:23.476 [main] INFO   - User clicks to 'Accept' button
+2019-32-18 15:32:25.080 [main] INFO   - User opens Leader Board Page from main carousel
+2019-35-18 15:35:01.465 [main] INFO   - User opens site
+2019-35-18 15:35:02.794 [main] INFO   - User clicks to 'Accept' button
+2019-35-18 15:35:39.994 [main] INFO   - User opens site
+2019-35-18 15:35:41.311 [main] INFO   - User clicks to 'Accept' button
+2019-35-18 15:35:45.305 [main] INFO   - User opens Leader Board Page from main carousel
+2019-39-18 15:39:51.122 [main] INFO   - User opens site
+2019-39-18 15:39:52.315 [main] INFO   - User clicks to 'Accept' button
+2019-39-18 15:39:55.773 [main] INFO   - User opens Leader Board Page from main carousel
+2019-41-18 15:41:02.410 [main] INFO   - User opens site
+2019-41-18 15:41:03.788 [main] INFO   - User clicks to 'Accept' button
+2019-41-18 15:41:05.987 [main] INFO   - User opens Leader Board Page from main carousel
+2019-17-18 17:17:30.519 [main] INFO   - User opens site
+2019-17-18 17:17:31.573 [main] INFO   - User clicks to 'Accept' button
+2019-18-18 17:18:56.220 [main] INFO   - User opens site
+2019-18-18 17:18:57.203 [main] INFO   - User clicks to 'Accept' button
+2019-18-18 17:18:59.476 [main] INFO   - User opens Leader Board Page from main carousel
+2019-26-18 17:26:20.279 [main] INFO   - User opens site
+2019-26-18 17:26:21.494 [main] INFO   - User clicks to 'Accept' button
+2019-26-18 17:26:54.788 [main] INFO   - User opens site
+2019-26-18 17:26:55.754 [main] INFO   - User clicks to 'Accept' button
+2019-26-18 17:26:59.388 [main] INFO   - User opens Leader Board Page from main carousel
+2019-31-18 17:31:57.298 [main] INFO   - User opens site
+2019-31-18 17:31:58.372 [main] INFO   - User clicks to 'Accept' button
+2019-32-18 17:32:00.693 [main] INFO   - User opens Leader Board Page from main carousel
+2019-55-18 17:55:38.304 [main] INFO   - User opens site
+2019-55-18 17:55:39.323 [main] INFO   - User clicks to 'Accept' button
+2019-55-18 17:55:46.439 [main] INFO   - User opens Leader Board Page from main carousel
+2019-03-18 18:03:54.642 [main] INFO   - User opens site
+2019-03-18 18:03:55.641 [main] INFO   - User clicks to 'Accept' button
+2019-04-18 18:04:26.824 [main] INFO   - User opens site
+2019-04-18 18:04:27.863 [main] INFO   - User clicks to 'Accept' button
+2019-04-18 18:04:30.159 [main] INFO   - User opens Leader Board Page from main carousel
+2019-44-19 10:44:08.599 [main] INFO   - User opens site
+2019-44-19 10:44:09.661 [main] INFO   - User clicks to 'Accept' button
+2019-44-19 10:44:14.332 [main] INFO   - User opens Leader Board Page from main carousel
+2019-44-19 10:44:56.253 [main] INFO   - User opens site
+2019-44-19 10:44:57.374 [main] INFO   - User clicks to 'Accept' button
+2019-45-19 10:45:00.034 [main] INFO   - User opens Leader Board Page from main carousel
+2019-49-19 10:49:54.876 [main] INFO   - User opens site
+2019-49-19 10:49:55.908 [main] INFO   - User clicks to 'Accept' button
+2019-50-19 10:50:01.837 [main] INFO   - User opens Leader Board Page from main carousel
+2019-51-19 10:51:12.230 [main] INFO   - User opens site
+2019-51-19 10:51:13.316 [main] INFO   - User clicks to 'Accept' button
+2019-51-19 10:51:17.914 [main] INFO   - User opens Leader Board Page from main carousel
+2019-51-19 10:51:25.676 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-52-19 10:52:25.421 [main] INFO   - User opens site
+2019-52-19 10:52:26.349 [main] INFO   - User clicks to 'Accept' button
+2019-53-19 10:53:15.350 [main] INFO   - User opens site
+2019-53-19 10:53:16.448 [main] INFO   - User clicks to 'Accept' button
+2019-53-19 10:53:19.086 [main] INFO   - User opens Leader Board Page from main carousel
+2019-53-19 10:53:36.683 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-54-19 10:54:55.610 [main] INFO   - User opens site
+2019-54-19 10:54:56.566 [main] INFO   - User clicks to 'Accept' button
+2019-54-19 10:54:58.732 [main] INFO   - User opens Leader Board Page from main carousel
+2019-55-19 10:55:14.321 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-39-19 11:39:25.414 [main] INFO   - User opens site
+2019-39-19 11:39:26.383 [main] INFO   - User clicks to 'Accept' button
+2019-36-19 14:36:53.804 [main] INFO   - User opens site
+2019-36-19 14:36:54.793 [main] INFO   - User clicks to 'Accept' button
+2019-36-19 14:36:56.576 [main] INFO   - Login page is opened
+2019-36-19 14:36:57.521 [main] INFO   - Login in system
+2019-37-19 14:37:00.400 [main] INFO   - Verify, that user is correct
+2019-37-19 14:37:02.962 [main] INFO   - Logout
+2019-37-19 14:37:03.018 [main] INFO   - Verify that user is logged out
+2019-37-19 14:37:03.562 [main] INFO   - User opens Leader Board Page from main carousel
+2019-37-19 14:37:07.326 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-53-19 14:53:50.233 [main] INFO   - User opens site
+2019-53-19 14:53:51.158 [main] INFO   - User clicks to 'Accept' button
+2019-53-19 14:53:52.917 [main] INFO   - Login page is opened
+2019-53-19 14:53:53.855 [main] INFO   - Login in system
+2019-53-19 14:53:57.271 [main] INFO   - Verify, that user is correct
+2019-53-19 14:53:59.711 [main] INFO   - Logout
+2019-53-19 14:53:59.777 [main] INFO   - Verify that user is logged out
+2019-54-19 14:54:00.567 [main] INFO   - User opens Leader Board Page from main carousel
+2019-54-19 14:54:04.200 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-57-19 14:57:09.824 [main] INFO   - User opens site
+2019-57-19 14:57:10.845 [main] INFO   - User clicks to 'Accept' button
+2019-57-19 14:57:12.490 [main] INFO   - Login page is opened
+2019-57-19 14:57:13.378 [main] INFO   - Login in system
+2019-57-19 14:57:16.446 [main] INFO   - Verify, that user is correct
+2019-57-19 14:57:18.774 [main] INFO   - Logout
+2019-57-19 14:57:18.845 [main] INFO   - Verify that user is logged out
+2019-57-19 14:57:19.817 [main] INFO   - User opens Leader Board Page from main carousel
+2019-57-19 14:57:22.849 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-58-19 14:58:49.173 [main] INFO   - User opens site
+2019-58-19 14:58:50.239 [main] INFO   - User clicks to 'Accept' button
+2019-58-19 14:58:56.441 [main] INFO   - Login page is opened
+2019-58-19 14:58:57.843 [main] INFO   - Login in system
+2019-59-19 14:59:03.344 [main] INFO   - Verify, that user is correct
+2019-59-19 14:59:06.784 [main] INFO   - Logout
+2019-59-19 14:59:06.837 [main] INFO   - Verify that user is logged out
+2019-59-19 14:59:08.493 [main] INFO   - User opens Leader Board Page from main carousel
+2019-59-19 14:59:12.925 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-16-19 15:16:33.312 [main] INFO   - User opens site
+2019-16-19 15:16:34.353 [main] INFO   - User clicks to 'Accept' button
+2019-16-19 15:16:36.279 [main] INFO   - Login page is opened
+2019-16-19 15:16:37.193 [main] INFO   - Login in system
+2019-16-19 15:16:40.377 [main] INFO   - Verify, that user is correct
+2019-16-19 15:16:44.103 [main] INFO   - Logout
+2019-16-19 15:16:44.191 [main] INFO   - Verify that user is logged out
+2019-16-19 15:16:45.324 [main] INFO   - User opens Leader Board Page from main carousel
+2019-16-19 15:16:50.519 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-18-19 15:18:16.884 [main] INFO   - User opens site
+2019-18-19 15:18:17.851 [main] INFO   - User clicks to 'Accept' button
+2019-18-19 15:18:19.576 [main] INFO   - Login page is opened
+2019-18-19 15:18:20.547 [main] INFO   - Login in system
+2019-18-19 15:18:23.670 [main] INFO   - Verify, that user is correct
+2019-18-19 15:18:25.974 [main] INFO   - Logout
+2019-18-19 15:18:26.037 [main] INFO   - Verify that user is logged out
+2019-18-19 15:18:26.866 [main] INFO   - User opens Leader Board Page from main carousel
+2019-18-19 15:18:29.681 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-28-19 15:28:15.509 [main] INFO   - User opens site
+2019-28-19 15:28:16.859 [main] INFO   - User clicks to 'Accept' button
+2019-28-19 15:28:19.478 [main] INFO   - Login page is opened
+2019-28-19 15:28:20.589 [main] INFO   - Login in system
+2019-28-19 15:28:24.768 [main] INFO   - Verify, that user is correct
+2019-28-19 15:28:28.037 [main] INFO   - Logout
+2019-28-19 15:28:28.143 [main] INFO   - Verify that user is logged out
+2019-28-19 15:28:29.328 [main] INFO   - User opens Leader Board Page from main carousel
+2019-28-19 15:28:33.492 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-29-19 15:29:55.786 [main] INFO   - User opens site
+2019-29-19 15:29:56.887 [main] INFO   - User clicks to 'Accept' button
+2019-29-19 15:29:58.874 [main] INFO   - Login page is opened
+2019-29-19 15:29:59.797 [main] INFO   - Login in system
+2019-30-19 15:30:03.522 [main] INFO   - Verify, that user is correct
+2019-30-19 15:30:06.648 [main] INFO   - Logout
+2019-30-19 15:30:06.727 [main] INFO   - Verify that user is logged out
+2019-30-19 15:30:07.814 [main] INFO   - User opens Leader Board Page from main carousel
+2019-30-19 15:30:10.407 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-31-19 15:31:43.989 [main] INFO   - User opens site
+2019-31-19 15:31:45.017 [main] INFO   - User clicks to 'Accept' button
+2019-31-19 15:31:46.724 [main] INFO   - Login page is opened
+2019-31-19 15:31:47.617 [main] INFO   - Login in system
+2019-31-19 15:31:50.702 [main] INFO   - Verify, that user is correct
+2019-31-19 15:31:53.553 [main] INFO   - Logout
+2019-31-19 15:31:53.622 [main] INFO   - Verify that user is logged out
+2019-31-19 15:31:54.404 [main] INFO   - User opens Leader Board Page from main carousel
+2019-31-19 15:31:57.083 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-34-19 15:34:31.994 [main] INFO   - User opens site
+2019-34-19 15:34:33.099 [main] INFO   - User clicks to 'Accept' button
+2019-34-19 15:34:39.563 [main] INFO   - Login page is opened
+2019-34-19 15:34:40.951 [main] INFO   - Login in system
+2019-34-19 15:34:45.646 [main] INFO   - Verify, that user is correct
+2019-34-19 15:34:48.715 [main] INFO   - Logout
+2019-34-19 15:34:48.859 [main] INFO   - Verify that user is logged out
+2019-34-19 15:34:50.194 [main] INFO   - User opens Leader Board Page from main carousel
+2019-34-19 15:34:55.397 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-37-19 15:37:42.519 [main] INFO   - User opens site
+2019-37-19 15:37:43.616 [main] INFO   - User clicks to 'Accept' button
+2019-37-19 15:37:48.874 [main] INFO   - Login page is opened
+2019-37-19 15:37:50.260 [main] INFO   - Login in system
+2019-37-19 15:37:54.235 [main] INFO   - Verify, that user is correct
+2019-37-19 15:37:57.004 [main] INFO   - Logout
+2019-37-19 15:37:57.072 [main] INFO   - Verify that user is logged out
+2019-37-19 15:37:57.989 [main] INFO   - User opens Leader Board Page from main carousel
+2019-38-19 15:38:00.835 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-39-19 15:39:15.309 [main] INFO   - User opens site
+2019-39-19 15:39:16.387 [main] INFO   - User clicks to 'Accept' button
+2019-39-19 15:39:18.598 [main] INFO   - Login page is opened
+2019-39-19 15:39:19.752 [main] INFO   - Login in system
+2019-39-19 15:39:22.876 [main] INFO   - Verify, that user is correct
+2019-39-19 15:39:25.018 [main] INFO   - Logout
+2019-39-19 15:39:25.080 [main] INFO   - Verify that user is logged out
+2019-39-19 15:39:25.916 [main] INFO   - User opens Leader Board Page from main carousel
+2019-39-19 15:39:29.498 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-46-19 15:46:21.196 [main] INFO   - User opens site
+2019-46-19 15:46:22.257 [main] INFO   - User clicks to 'Accept' button
+2019-46-19 15:46:24.307 [main] INFO   - Login page is opened
+2019-46-19 15:46:25.383 [main] INFO   - Login in system
+2019-46-19 15:46:29.254 [main] INFO   - Verify, that user is correct
+2019-46-19 15:46:32.411 [main] INFO   - Logout
+2019-46-19 15:46:32.490 [main] INFO   - Verify that user is logged out
+2019-46-19 15:46:33.527 [main] INFO   - User opens Leader Board Page from main carousel
+2019-46-19 15:46:37.174 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-49-19 15:49:24.656 [main] INFO   - User opens site
+2019-49-19 15:49:25.885 [main] INFO   - User clicks to 'Accept' button
+2019-49-19 15:49:28.861 [main] INFO   - Login page is opened
+2019-49-19 15:49:30.290 [main] INFO   - Login in system
+2019-49-19 15:49:34.267 [main] INFO   - Verify, that user is correct
+2019-49-19 15:49:37.290 [main] INFO   - Logout
+2019-49-19 15:49:37.358 [main] INFO   - Verify that user is logged out
+2019-49-19 15:49:38.409 [main] INFO   - User opens Leader Board Page from main carousel
+2019-49-19 15:49:44.632 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-52-19 15:52:40.752 [main] INFO   - User opens site
+2019-52-19 15:52:41.772 [main] INFO   - User clicks to 'Accept' button
+2019-52-19 15:52:43.682 [main] INFO   - Login page is opened
+2019-52-19 15:52:44.649 [main] INFO   - Login in system
+2019-52-19 15:52:47.869 [main] INFO   - Verify, that user is correct
+2019-52-19 15:52:50.644 [main] INFO   - Logout
+2019-52-19 15:52:50.718 [main] INFO   - Verify that user is logged out
+2019-52-19 15:52:51.525 [main] INFO   - User opens Leader Board Page from main carousel
+2019-52-19 15:52:56.065 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-54-19 17:54:09.865 [main] INFO   - User opens site
+2019-54-19 17:54:10.882 [main] INFO   - User clicks to 'Accept' button
+2019-54-19 17:54:12.884 [main] INFO   - Login page is opened
+2019-54-19 17:54:13.808 [main] INFO   - Login in system
+2019-54-19 17:54:17.468 [main] INFO   - Verify, that user is correct
+2019-54-19 17:54:20.394 [main] INFO   - Logout
+2019-54-19 17:54:20.449 [main] INFO   - Verify that user is logged out
+2019-54-19 17:54:21.163 [main] INFO   - User opens Leader Board Page from main carousel
+2019-54-19 17:54:24.905 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-55-19 17:55:57.282 [main] INFO   - User opens site
+2019-55-19 17:55:58.182 [main] INFO   - User clicks to 'Accept' button
+2019-55-19 17:55:59.901 [main] INFO   - Login page is opened
+2019-56-19 17:56:00.965 [main] INFO   - Login in system
+2019-56-19 17:56:04.451 [main] INFO   - Verify, that user is correct
+2019-56-19 17:56:07.465 [main] INFO   - Logout
+2019-56-19 17:56:07.536 [main] INFO   - Verify that user is logged out
+2019-56-19 17:56:08.470 [main] INFO   - User opens Leader Board Page from main carousel
+2019-56-19 17:56:12.270 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-31-22 10:31:29.462 [main] INFO   - User opens site
+2019-31-22 10:31:30.462 [main] INFO   - User clicks to 'Accept' button
+2019-31-22 10:31:32.464 [main] INFO   - Login page is opened
+2019-31-22 10:31:33.410 [main] INFO   - Login in system
+2019-31-22 10:31:36.816 [main] INFO   - Verify, that user is correct
+2019-31-22 10:31:39.882 [main] INFO   - Logout
+2019-31-22 10:31:39.948 [main] INFO   - Verify that user is logged out
+2019-31-22 10:31:40.819 [main] INFO   - User opens Leader Board Page from main carousel
+2019-31-22 10:31:45.023 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-52-22 10:52:25.928 [main] INFO   - User opens site
+2019-52-22 10:52:27.015 [main] INFO   - User clicks to 'Accept' button
+2019-52-22 10:52:28.938 [main] INFO   - Login page is opened
+2019-52-22 10:52:30.205 [main] INFO   - Login in system
+2019-52-22 10:52:33.284 [main] INFO   - Verify, that user is correct
+2019-52-22 10:52:35.730 [main] INFO   - Logout
+2019-52-22 10:52:35.782 [main] INFO   - Verify that user is logged out
+2019-52-22 10:52:36.495 [main] INFO   - User opens Leader Board Page from main carousel
+2019-52-22 10:52:39.262 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-17-22 13:17:50.329 [main] INFO   - User opens site
+2019-17-22 13:17:51.378 [main] INFO   - User clicks to 'Accept' button
+2019-17-22 13:17:56.955 [main] INFO   - Login page is opened
+2019-17-22 13:17:57.990 [main] INFO   - Login in system
+2019-18-22 13:18:02.369 [main] INFO   - Verify, that user is correct
+2019-18-22 13:18:06.719 [main] INFO   - Logout
+2019-18-22 13:18:06.783 [main] INFO   - Verify that user is logged out
+2019-18-22 13:18:08.471 [main] INFO   - User opens Leader Board Page from main carousel
+2019-18-22 13:18:15.051 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-22-22 13:22:49.857 [main] INFO   - User opens site
+2019-22-22 13:22:50.855 [main] INFO   - User clicks to 'Accept' button
+2019-22-22 13:22:53.368 [main] INFO   - Login page is opened
+2019-22-22 13:22:54.267 [main] INFO   - Login in system
+2019-22-22 13:22:57.201 [main] INFO   - Verify, that user is correct
+2019-22-22 13:22:59.936 [main] INFO   - Logout
+2019-22-22 13:22:59.990 [main] INFO   - Verify that user is logged out
+2019-23-22 13:23:00.751 [main] INFO   - User opens Leader Board Page from main carousel
+2019-23-22 13:23:03.594 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year
+2019-24-22 13:24:19.902 [main] INFO   - User opens site
+2019-24-22 13:24:20.947 [main] INFO   - User clicks to 'Accept' button
+2019-24-22 13:24:22.964 [main] INFO   - Login page is opened
+2019-24-22 13:24:23.901 [main] INFO   - Login in system
+2019-24-22 13:24:27.042 [main] INFO   - Verify, that user is correct
+2019-24-22 13:24:29.747 [main] INFO   - Logout
+2019-24-22 13:24:29.810 [main] INFO   - Verify that user is logged out
+2019-24-22 13:24:30.449 [main] INFO   - User opens Leader Board Page from main carousel
+2019-24-22 13:24:33.630 [main] INFO   - Select 'Games' in competition, 'Men' in Division and '2017' in year

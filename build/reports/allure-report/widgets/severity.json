@@ -1,0 +1,41 @@
+[ {
+  "uid" : "1bcc4d22fd34bdbf",
+  "name" : "testLoginTest",
+  "time" : {
+    "start" : 1564991318635,
+    "stop" : 1564991358299,
+    "duration" : 39664
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55ea643e11a5c875",
+  "name" : "testCrossFitStuffShopTest",
+  "time" : {
+    "start" : 1564991412007,
+    "stop" : 1564991443519,
+    "duration" : 31512
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f6e816eca546072",
+  "name" : "testOpenSiteTest",
+  "time" : {
+    "start" : 1564991299474,
+    "stop" : 1564991312134,
+    "duration" : 12660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86c80f786a8823e4",
+  "name" : "testLeaderBoardTest",
+  "time" : {
+    "start" : 1564991364259,
+    "stop" : 1564991406130,
+    "duration" : 41871
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

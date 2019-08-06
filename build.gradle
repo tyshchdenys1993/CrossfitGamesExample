@@ -1,0 +1,65 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath "io.qameta.allure:allure-gradle:2.5"
+    }
+}
+
+plugins {
+    id 'java'
+    id "io.qameta.allure" version "2.7.0"
+}
+
+apply plugin: "io.qameta.allure"
+
+group 'com.gamescrossfit.www'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.12.0'
+    compile group: 'commons-io', name: 'commons-io', version: '2.4'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.9'
+    compile group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-yaml', version: '2.9.9'
+    compile group: 'io.qameta.allure', name: 'allure-junit4', version: '2.7.0'
+    compile group: 'io.qameta.allure', name: 'allure-java-commons', version: '2.7.0'
+}
+
+test{
+    useJUnit()
+}
+
+sourceSets {
+    test {
+        java {
+            srcDirs = ['src/main/java/tests']
+        }
+        resources {
+            srcDirs = ['src/main/resources']
+        }
+    }
+}
+
+allure {
+    autoconfigure = true
+    version = '2.7.0'
+    resultsDir = file('allure-results')
+    reportDir = file('allure-report')
+    useJUnit4 {
+        version = '2.7.0'
+    }
+    downloadLink = 'https://dl.bintray.com/qameta/generic/io/qameta/allure/allure/2.7.0/allure-2.7.0.zip'
+}
+
+
+
+

@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","OpenSiteTest.testOpenSiteTest","12660",""
+"passed","LeaderBoardTest.testLeaderBoardTest","41871",""
+"passed","CrossFitStuffShopTest.testCrossFitStuffShopTest","31512",""
+"passed","LoginTest.testLoginTest","39664",""
